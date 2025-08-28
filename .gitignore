@@ -1,0 +1,14 @@
+# 项目备注：此文件用于忽略临时文件和不需要上传的内容
+# 请勿上传 .log、.tmp、__pycache__、.vscode 等临时文件夹
+
+*.log
+*.tmp
+__pycache__/
+.vscode/
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+.env
+.idea/
+# 你可以在此补充更多需要忽略的文件或文件夹
